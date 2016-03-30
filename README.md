@@ -1,6 +1,6 @@
 # Learn You Node
 
-Lessons from [http://nodeschool.io/#workshoppers](http://nodeschool.io/#workshoppers)
+Lessons from [http://nodeschool.io](http://nodeschool.io)
 
 You’ll need [Node.js](http://nodejs.org/) on your computer to get started with each of these. Then use [npm](http://npmjs.org/) (it comes with Node) to install each module with the command below it. Once installed, simply type the workshopper’s name to launch.
 
