@@ -8,4 +8,4 @@ You will also need a Text Editor, if you don't have one already, you may want on
 
 Next from Terminal type `npm install -g learnyounode` and press return. Then type `learnyounode` and press return.
 
-My personal soltuons are provided in the folders of this repository. Enjoy!
+My personal solutions are provided in the folders of this repository. Enjoy!
